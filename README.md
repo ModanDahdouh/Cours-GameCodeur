@@ -1,3 +1,3 @@
 # Jeux-Pong
-Cours GameCodeur sur le languages Lua
+Cours GameCodeur sur le langage Lua
 
